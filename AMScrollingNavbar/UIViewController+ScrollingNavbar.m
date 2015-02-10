@@ -459,7 +459,7 @@
             self.expanded = YES;
             self.collapsed = NO;
             
-            [self updateSizingWithDelta:delta];
+//            [self updateSizingWithDelta:delta];
         } completion:nil];
     } else {
         // And back up
